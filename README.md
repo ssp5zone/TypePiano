@@ -12,7 +12,7 @@ This application is based on Virtual Piano.
 
 ![](/docs/piano.png)
 
-Most similar music apps generate a sound that have exponential or cosine frequency responce. This is one of the rare ones whos note's follow a time-varying gaussian curve. 
+Most similar music apps generate a sound that have exponential or cosine frequency responce. This is one of the rare ones who's notes follow a time-varying gaussian curve. 
 
 In human language; it sounds very close to the real thing. Hence, this application has 3 major purpose,
 
